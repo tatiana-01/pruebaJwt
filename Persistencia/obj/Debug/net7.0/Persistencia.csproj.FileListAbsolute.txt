@@ -1,0 +1,15 @@
+c:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\bin\Debug\net7.0\Persistencia.dll
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\bin\Debug\net7.0\Dominio.dll
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+c:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\obj\Debug\net7.0\Persistencia.dll
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+C:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+c:\Users\Tatiana Paredes C\Desktop\pruebaJwt\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
